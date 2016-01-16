@@ -1,9 +1,11 @@
-__THIS PROJECT IS NO LONGER MAINTAINED. Please seek other alternatives.__
+# __THIS PROJECT IS NO LONGER MAINTAINED.__ 
+
+__Please seek other alternatives.__
 
 * the project cannot be updated on npm due to camelCased title
 * i no longer do Windows
 * both iojs and node.js v0.12 have execSync function
-* older node users can try sync-exec from npm (suggested by one of the commentors)
+* older node users can try [sync-exec](https://github.com/gvarsanyi/sync-exec) from npm (suggested by one of the commentors)
 
 # execSync
 
